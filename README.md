@@ -15,7 +15,7 @@ Fun\
 -pranks\
 -spams\
 -rock paper scissors (?????)\
--rickroll link generator (!!!!)\
+-rickroll link generator (!!!!)
 
 Now, do some quick math:\
 Moderation + Fun + At the same time = Blue Jay Bot

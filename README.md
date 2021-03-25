@@ -34,9 +34,9 @@ Since we cannot pay money, how do we support you?
 2. Give suggestions and feedback (criticism)
 3. Invite the bot to your servers (expand it)
 \
--Special requests and customization allowed:\
---Verification process for your server (+verify): set up here
-https://forms.gle/VHRNszKpAXJi5DT28\
+\
+-Special requests and customization allowed-\
+--Verification process for your server (+verify): set up here https://forms.gle/VHRNszKpAXJi5DT28\
 \
 --Custom commands! (only supporters, not guaranteed)\
 --Become a contributor (give really good suggestions, report errors that really need to be fixed ASAP)\

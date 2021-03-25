@@ -3,7 +3,7 @@
 
 
 Flying high in the sky\
-Looking down, making sure everything is safe and sound\
+Looking down, making sure everything is safe and sound
 
 Moderation\
 -kicks\

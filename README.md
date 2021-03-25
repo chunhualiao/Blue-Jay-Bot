@@ -29,10 +29,10 @@ Why we are different:\
 
 ----BOUNS----\
 How to become a supporter:\
-Since we cannot pay money, how do we support you?\
-1. Join the Gamer House server (help+support)\
-2. Give suggestions and feedback (criticism)\
-3. Invite the bot to your servers (expand it)\
+Since we cannot pay money, how do we support you?
+1. Join the Gamer House server (help+support)
+2. Give suggestions and feedback (criticism)
+3. Invite the bot to your servers (expand it)
 \
 -Special requests and customization allowed:\
 --Verification process for your server (+verify): set up here
